@@ -8,8 +8,8 @@
 1. 05/ago: ~~Diagnóstico inicial. Apresentação da disciplina~~
 2. 12/ago: ~~Revisão de associação entre objetos e arrays de objetos~~
 3. 19/ago: ~~Revisão de herança e polimorfismo~~
-4. 26/ago: Revisão de interfaces e tratamento de erros
-5. 02/sep: Injeção de dependências
+4. 26/ago: ~~Revisão de interfaces e tratamento de erros~~
+5. 02/sep: ~~Injeção de dependências~~
 6. 09/sep: 5 princípios SOLID
 7. 16/sep: Singleton
 8. 23/sep: Factory method
